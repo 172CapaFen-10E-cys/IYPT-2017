@@ -11,6 +11,8 @@ Buzlu soğuk su dolu bir kaba cam bir sişe konulup soğuması beklenir. Şişe 
 Ayrıca moleküller birbirleri ile daha çok çarpışır. Sıcak havadaki basınç soğuk havaya oranla daha fazla olduğundan açığa çıkan enerji şişenin üzerindeki basıncın artmasına ve havanın kaçmaya çalışmasına sebep olur, bu da madeni paranın titremesini sağlar.El çekildiğinde şişedeki hava yeniden soğur ve basınç yeniden düşer dolayısıyla paranın hareketi son bulur.
 ## Kaynakçalar 
 1.https://www.google.com.tr/url?sa=t&source=web&rct=j&url=http://mobilim.bozok.edu.tr/tr/1/deneyler/Dans_Eden_Para.pdf&ved=0ahUKEwif06aT5pfXAhVJXBoKHf34B6YQFggkMAA&usg=AOvVaw2sJs_VUDDFD2ukmujAGXW6
+
 2.https://www.google.com.tr/url?sa=t&source=web&rct=j&url=http://www.umanitoba.ca/outreach/crystal/resources%2520for%2520teachers/The%2520Dancing%2520Coin.doc&ved=0ahUKEwi1jv335pfXAhWCfhoKHRcuCa0QFgh0MBY&usg=AOvVaw1uuLi7hfNAA12gMVStJK6A
+
 3.Explorable.com (Apr 19, 2011). Magic Jumping Coin Experiment. from Explorable.com: https://explorable.com/magic-jumping-coin-experiment
 Retrieved Oct 29, 2017 
