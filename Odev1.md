@@ -1,5 +1,4 @@
 Sınıf| Öğrenci İsmi  | Numara
-.....|...............|.......
 
 10-E | Ceren Yamaç   | 422
 
@@ -7,7 +6,7 @@ Sınıf| Öğrenci İsmi  | Numara
 
 10-E | Yaren Gök     | 417
 
-   ##DANCING COIN
+## DANCING COIN
    
 ## Projenin Özeti 
 Soğutulmuş bir şişe el ile kavranıp üzerine madeni para konulduğunda madeni parada bir titreşim meydana gelmektedir. Bu projenin amacı madeni para gözlenen bu hareketi araştırıp üzerine yorum yapmaktır.Şimdi yapacağımız  hakkında biraz bilgi vermek istiyoruz.
