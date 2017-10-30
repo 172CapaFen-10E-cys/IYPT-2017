@@ -1,10 +1,14 @@
 Sınıf| Öğrenci İsmi  | Numara
 .....|...............|.......
+
 10-E | Ceren Yamaç   | 422
+
 10-E | Selin Ceylan  | 477
+
 10-E | Yaren Gök     | 417
 
-    DANCING COIN 
+   ##DANCING COIN
+   
 ## Projenin Özeti 
 Soğutulmuş bir şişe el ile kavranıp üzerine madeni para konulduğunda madeni parada bir titreşim meydana gelmektedir. Bu projenin amacı madeni para gözlenen bu hareketi araştırıp üzerine yorum yapmaktır.Şimdi yapacağımız  hakkında biraz bilgi vermek istiyoruz.
 Buzlu soğuk su dolu bir kaba cam bir sişe konulup soğuması beklenir. Şişe soğuduktan sonra şişenin ağız kısmına ağız kısmından biraz daha büyük bir madeni para yerleştirilir.Ardından şişe el ile kavranır. Elimiz şişeden daha sıcak olduğu için ısı alış-verişi gerçekleşecektir. Şişenin içindeki hava ısınır ve ısınan hava genleşir.Çünkü moleküller daha hızlı hareket etmeye başlar ve daha fazla enerjiye sahip olur.
